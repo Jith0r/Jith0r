@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/5FtQrQs/madara.png">
 
-- 🔭 I’m currently working on [BnbAir Clone](https://unkn0w-ind-bnb.vercel.app)
+- 🔭 I’m currently working on [Hey-Pizza](https://hey-pizza.vercel.app)
 
 - 🌱 I’m currently learning **React, Next JS**
 
-- 👨‍💻 All of my projects are available at [http://dev-pentest.fr](http://dev-pentest.fr)
+- 👨‍💻 All of my projects are available at [http://dev-pentest.vercel.app](http://dev-pentest.vercel.app)
 
 - 📝 I regularly write articles on [http://dev-pentest-blog.vercel.app](http://dev-pentest-blog.vercel.app)
 
