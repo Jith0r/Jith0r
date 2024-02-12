@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Next JS**
 
-- 👨‍💻 All of my projects are available at [http://dev-pentest.vercel.app](http://dev-pentest.vercel.app)
+- 👨‍💻 You can visit my portfolio at [http://dev-pentest.vercel.app](http://dev-pentest.vercel.app)
 
 - 📝 I regularly write articles on [http://dev-pentest-blog.vercel.app](http://dev-pentest-blog.vercel.app)
 
