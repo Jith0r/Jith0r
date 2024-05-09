@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/5FtQrQs/madara.png">
 
-- 🔭 I’m currently working in PHP and Symfony)
+- 🔭 I’m currently working in PHP and Symfony
 
 - 🌱 I’m currently learning **React, Symfony**
 
