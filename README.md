@@ -3,15 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/5FtQrQs/madara.png">
 
-- 🔭 I’m currently working on [Hey-Pizza](https://hey-pizza.vercel.app)
+- 🔭 I’m currently working in PHP and Symfony)
 
-- 🌱 I’m currently learning **React, Next JS**
+- 🌱 I’m currently learning **React, Symfony**
 
-- 👨‍💻 You can visit my portfolio at [http://dev-pentest.vercel.app](http://dev-pentest.vercel.app)
+- 👨‍💻 You can visit my portfolio at [https://symfony-of-dev.vercel.app/](https://symfony-of-dev.vercel.app)
 
 - 📝 I regularly write articles on [http://dev-pentest-blog.vercel.app](http://dev-pentest-blog.vercel.app)
 
-- 💬 Ask me about **MERN, REACT, NEXT, HACKING STUFF**
+- 💬 Ask me about **PHP, REACT, SYMFONY AND HACKING STUFF**
 
 - ⚡ Fun fact **I like One Piece & Uchiwa Clan**
 
