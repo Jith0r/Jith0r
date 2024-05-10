@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/5FtQrQs/madara.png">
 
-- 🔭 I’m currently working in PHP and Symfony
+- 🔭 I’m a web developper working in PHP and Symfony
 
-- 🌱 I’m currently learning **React, Symfony**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 You can visit my portfolio at [https://symfony-of-dev.vercel.app/](https://symfony-of-dev.vercel.app)
 
