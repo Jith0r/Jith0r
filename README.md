@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 You can visit my portfolio at [https://symfony-of-dev.vercel.app/](https://symfony-of-dev.vercel.app)
+- 👨‍💻 You can visit my portfolio at [https://dev-pentest.vercel.app/](https://dev-pentest.vercel.app)
 
-- 📝 I regularly write articles on [http://dev-pentest-blog.vercel.app](http://dev-pentest-blog.vercel.app)
+- 📝 I regularly write articles about web security on [http://dev-pentest-blog.vercel.app](http://dev-pentest-blog.vercel.app)
 
-- 💬 Ask me about **PHP, REACT, SYMFONY AND HACKING STUFF**
+- 💬 Ask me about **PHP, SYMFONY, REACT AND HACKING STUFF**
 
-- ⚡ Fun fact **I like One Piece & Uchiwa Clan**
+- ⚡ Fun fact **I m from Uchiwa Clan**
 
 
 <h3 align="left">Languages and Tools:</h3>
