@@ -11,7 +11,7 @@
 - 📝 Dp-Blog, des articles sur la sécurité informatique & les bases du développement web -> [http://dev-pentest-blog.vercel.app/](http://dev-pentest-blog.vercel.app)
 
 
-<h3 align="left">Stack</h3>
+<h3 align="left">- Stack</h3>
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
