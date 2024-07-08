@@ -2,7 +2,7 @@
 <h3 align="center">Passioné de la programmation web et de la sécurité informatique</h3>
 <hr/>
 
-- 🔭 Je suis un développeur web PHP et Symfony !
+- 🔭 Développeur web PHP et Symfony !
 
 - 🌱 J'apprends actuellement **React/NextJS**
 
