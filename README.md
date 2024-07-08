@@ -11,7 +11,7 @@
 
 - 📝 Write articles about web security on [http://dev-pentest-blog.vercel.app](http://dev-pentest-blog.vercel.app)
 
-- 💬 Ask me about **PHP, SYMFONY, REACT AND HACKING STUFF**
+- 💬 Ask me about **PHP, SYMFONY, REACT AND ETHICAL HACKING**
 
 - ⚡ Fun fact : **I'm from Uchiwa Clan**
 
