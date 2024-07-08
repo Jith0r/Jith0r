@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **PHP, SYMFONY, REACT AND ETHICAL HACKING**
 
-- ⚡ Fun fact : **I'm from Uchiwa Clan**
 
 
 <h3 align="left">Languages and Tools:</h3>
