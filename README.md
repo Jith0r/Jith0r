@@ -8,7 +8,7 @@
 
 - 👨‍💻 You can visit my portfolio at [https://dev-pentest.vercel.app/](https://dev-pentest.vercel.app)
 
-- 📝 Write articles about web security on [http://dev-pentest-blog.vercel.app](http://dev-pentest-blog.vercel.app)
+- 📝 - 📝 Vous pouvez visiter mon Blog où je rédige des articles sur la sécurité informatique & les bases du développement [http://dev-pentest-blog.vercel.app](http://dev-pentest-blog.vercel.app)
 
 - 💬 Ask me about **PHP, SYMFONY, REACT AND ETHICAL HACKING**
 
