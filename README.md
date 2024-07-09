@@ -2,9 +2,9 @@
 <h3 align="center">Passioné de la programmation web et de la sécurité informatique</h3>
 <hr/>
 
-- 🔭 Développeur **PHP** et **Symfony** !
+- 👾 Développeur **PHP** et **Symfony** !
 
-- 🌱 J'apprends actuellement **React/NextJS**
+- 💻 J'aime travailler avec **React/NextJS**
 
 - 👨‍💻 Vous pouvez visiter mon portfolio -> [https://dev-pentest.vercel.app/](https://dev-pentest.vercel.app)
 
@@ -12,7 +12,7 @@
 
 <hr/>
 
-- <h3>Je travaille avec ..</h3>
+- <h3>Les techno's que j'utilise..</h3>
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
