@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est Jith0r 🤖</h1>
+<h1 align="center">Salut, moi c'est Jith0r 🙋‍♂️</h1>
 <h3 align="center">Passioné de la programmation web et de la sécurité informatique</h3>
 <hr/>
 
