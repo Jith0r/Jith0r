@@ -4,9 +4,9 @@
 
 - 👾 Développeur **PHP** et **Symfony** !
 
-- 💻 J'aime travailler avec **React/NextJS** !
+- 👨‍💻 J'aime travailler avec **React/NextJS** !
 
-- 👨‍💻 Vous pouvez visiter mon portfolio -> [https://dev-pentest.vercel.app/](https://dev-pentest.vercel.app)
+- 💻 Vous pouvez visiter mon portfolio -> [https://dev-pentest.vercel.app/](https://dev-pentest.vercel.app)
 
 - 📝 Dp-Blog, des articles sur la sécurité informatique & les bases du développement web -> [http://dev-pentest-blog.vercel.app/](http://dev-pentest-blog.vercel.app)
 
